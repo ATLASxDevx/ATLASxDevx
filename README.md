@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=ATLAS&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Founder%20%26%20Full-Stack%20Developer&amp;descSize=16&amp;descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=ATLAS&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Founder%20%7C%20Full-Stack%20Developer&amp;descSize=16&amp;descAlignY=52"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=FF6E96&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;random=false&amp;width=600&amp;height=100&amp;lines=%F0%9F%9A%80+Dijital+%C3%87%C3%B6z%C3%BCmler+%26+AI+Prod%C3%BCksiyon;%E2%9A%A1+Vibe+Coding+%E2%80%94+3-5x+Faster+Delivery;%F0%9F%8E%AF+15%2B+Projects+%7C+50%2B+Tech+Integrations;%F0%9F%8C%8D+Building+the+Future+of+Web" alt="Typing SVG" /></a>
 
