@@ -4,53 +4,68 @@
 
 ### Founder & Full-Stack Developer
 
+**Dijital Çözümler & AI Prodüksiyon**
+
 [![Website](https://img.shields.io/badge/atlasmedya.net-000?style=for-the-badge&logo=vercel&logoColor=white)](https://atlasmedya.net)
+[![Twitter](https://img.shields.io/badge/@Atlasxdev-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Atlasxdev)
 
 </div>
 
 ---
 
-<div align="center">
+### What I Do
 
-`Next.js` `React` `TypeScript` `Three.js` `Tailwind CSS` `Framer Motion` `GSAP`
+**Vibe Coding** — AI-first full-stack development, 3-5x faster delivery
 
-</div>
+| Area | Details |
+|------|---------|
+| **AI Production** | Midjourney, DALL·E, Runway ML, Sora, Kling |
+| **AI Agents & Chatbots** | GPT-4, Claude, Gemini integrations |
+| **AI Video Production** | Ads, explainers, motion graphics |
+| **Web Development** | Next.js 15, React 19, TypeScript, Tailwind |
+| **3D Web Experiences** | Three.js, R3F, Drei, Post-processing |
+| **E-Commerce** | Shopify, WooCommerce, headless commerce |
+| **Adobe Production** | After Effects, Photoshop, Illustrator, Premiere |
+| **Branding** | Logo, corporate identity, brand guidelines |
+| **Automation** | n8n, Zapier, web scraping, API integrations |
+| **Digital Marketing** | SEO, Google Ads, Meta Ads, funnels |
 
 ---
 
-### What I Build
+### Featured Projects
 
-- **3D Web Experiences** — Interactive, immersive interfaces with React Three Fiber
-- **AI-Powered Applications** — Intelligent tools & automations with Claude, GPT, Kling
-- **Premium Dark UI** — Minimal, elegant, high-performance interfaces
-- **Digital Agency Solutions** — End-to-end web solutions for brands
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Yapio.ai** | 150+ AI services, 25+ modules, massive SaaS platform | Next.js, Python, AI |
+| **QubeLive YouTube** | 14 interactive game modules, live streaming platform | Electron, YouTube API, WebSocket |
+| **QubeLive TikTok** | 6 interactive game modules for TikTok Live | Electron, TikTok API |
+| **SKYNEURMA** | AI influencer automation, Telegram Stars monetization | TypeScript, React, Fastify |
+| **FullAuto** | AI influencer content factory, full automation | TypeScript, React, Node.js |
+| **HeroVault** | 17 premium hero sections, commercial UI template pack | React 19, Vite, Tailwind v4, GSAP |
 
 ---
 
 ### Tech Stack
 
 ```
-Frontend     Next.js 15 · React 19 · TypeScript · Tailwind 3.4
-3D Engine    @react-three/fiber · Drei · Post-processing
-Animation    Framer Motion · GSAP · Lenis Smooth Scroll
-i18n         next-intl (TR / EN)
-Deploy       Vercel · Cloudflare
+Frontend       Next.js 15 · React 19 · TypeScript · Tailwind · Vite
+3D / Motion    Three.js · R3F · Framer Motion · GSAP · Lenis
+Backend        Node.js · Fastify · Python
+Desktop        Electron
+AI             GPT-4 · Claude · Gemini · Midjourney · DALL·E · Runway ML · Sora · Kling
+Automation     n8n · Zapier
+Deploy         Vercel · Netlify · AWS · Cloudflare
+Video          Mux · Cloudflare HLS · Premiere Pro · After Effects
+E-Commerce     Shopify · WooCommerce · Stripe · iyzico
 ```
 
 ---
 
-### Currently
-
-- Building immersive 3D web experiences
-- Exploring AI integrations for web development
-- Contributing to open source tools & utilities
-
----
+### Stats
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ATLASxDevx)
-[![Website](https://img.shields.io/badge/Website-000?style=flat-square&logo=vercel&logoColor=white)](https://atlasmedya.net)
+`15+ Projects` `50+ Tech Integrations` `1.000+ Monthly Active Users`
 
 <img src="https://github-readme-stats.vercel.app/api?username=ATLASxDevx&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=a9b1d6" width="420">
 
