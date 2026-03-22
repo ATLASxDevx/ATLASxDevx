@@ -17,20 +17,18 @@
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="24"/> What I Do</h2>
 
 <div align="center">
-
-| | Area | Details |
-|:---:|------|---------|
-| 🤖 | **AI Production** | Midjourney · DALL·E · Runway ML · Sora · Kling |
-| 🧠 | **AI Agents & Chatbots** | GPT-4 · Claude · Gemini integrations |
-| 🎬 | **AI Video Production** | Ads · Explainers · Motion Graphics |
-| 🌐 | **Web Development** | Next.js 15 · React 19 · TypeScript · Tailwind |
-| 🎮 | **3D Web Experiences** | Three.js · R3F · Drei · Post-processing |
-| 🛒 | **E-Commerce** | Shopify · WooCommerce · Headless Commerce |
-| 🎨 | **Adobe Production** | After Effects · Photoshop · Illustrator · Premiere |
-| ✨ | **Branding** | Logo · Corporate Identity · Brand Guidelines |
-| ⚡ | **Automation** | n8n · Zapier · Web Scraping · API Integrations |
-| 📈 | **Digital Marketing** | SEO · Google Ads · Meta Ads · Funnels |
-
+<table>
+<tr><td align="center">🤖</td><td><b>AI Production</b></td><td>Midjourney · DALL·E · Runway ML · Sora · Kling</td></tr>
+<tr><td align="center">🧠</td><td><b>AI Agents</b></td><td>GPT-4 · Claude · Gemini integrations</td></tr>
+<tr><td align="center">🎬</td><td><b>AI Video</b></td><td>Ads · Explainers · Motion Graphics</td></tr>
+<tr><td align="center">🌐</td><td><b>Web Dev</b></td><td>Next.js 15 · React 19 · TypeScript · Tailwind</td></tr>
+<tr><td align="center">🎮</td><td><b>3D Web</b></td><td>Three.js · R3F · Drei · Post-processing</td></tr>
+<tr><td align="center">🛒</td><td><b>E-Commerce</b></td><td>Shopify · WooCommerce · Headless Commerce</td></tr>
+<tr><td align="center">🎨</td><td><b>Adobe</b></td><td>After Effects · Photoshop · Illustrator · Premiere</td></tr>
+<tr><td align="center">✨</td><td><b>Branding</b></td><td>Logo · Corporate Identity · Brand Guidelines</td></tr>
+<tr><td align="center">⚡</td><td><b>Automation</b></td><td>n8n · Zapier · Web Scraping · API Integrations</td></tr>
+<tr><td align="center">📈</td><td><b>Marketing</b></td><td>SEO · Google Ads · Meta Ads · Funnels</td></tr>
+</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -51,7 +49,6 @@
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"/> Featured Projects</h2>
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%">
@@ -114,7 +111,6 @@
 </td>
 </tr>
 </table>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -135,24 +131,20 @@
 <br/>
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=ATLASxDevx&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=5&amp;margin-h=5" width="100%"/>
-
 </div>
 
 <br/>
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATLASxDevx&amp;bg_color=0d1117&amp;color=ff6e96&amp;line=79dafa&amp;point=ff6e96&amp;area_color=0d1117&amp;area=true&amp;hide_border=true" width="95%"/>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
-<h3>🎯 "Vibe Coding — AI-first development, building the future 3-5x faster"</h3>
+<h3>🎯 Vibe Coding — AI-first development, building the future 3-5x faster</h3>
 
 <br/>
 
